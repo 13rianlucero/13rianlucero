@@ -1,5 +1,3 @@
-# readme
-
 <section id="gifs">
     <div align="center" class="inner">
         <span>
