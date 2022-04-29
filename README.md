@@ -109,9 +109,3 @@
     <img width="355" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13rianlucero&count_private=true&theme=highcontrast&langs_count=7&hide=TypeScript,SCSS,Dockerfile&exclude_repo=CrabAgePrediction,ottergram-hw2,ottergram,projects,coffee-run,13rianlucero.github.io,SWIFT-ONLY,Light,UDP-Pinger" style="border-radius:10px;">
     <!-- <img width="355" height="225" src="https://github-readme-stats.vercel.app/api?username=13rianlucero&count_private=true" style="border-radius:10px;"> -->
 </p>
-
-<br />
-
-<p align="center">
-    <img src="image/README/bl-logo.png"  alt="html" style="vertical-align:top; margin-left:50px">
-</p>
