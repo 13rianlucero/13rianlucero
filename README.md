@@ -1,3 +1,5 @@
+## Hello! My name is Brian Lucero.
+------
 <section id="gifs">
     <div align="center" class="inner">
         <span>
@@ -11,9 +13,7 @@
         </span>
     </div>
 </section>
-
-## Hello! My name is Brian Lucero. 
-
+ 
 ### I am a Senior Computer Science student at California State University, Fullerton!
 
 - I just launched my professional portfolio: [Check It Out Here!](https://13rianlucero.github.io/)
@@ -24,6 +24,18 @@
     </p>
 - Looking for an entry level internship for Software Engineering
 - 2022 Goals: Graduate! [on May 23, 2022], Apply to more companies, and complete more LeetCode problems.
+
+### Some Websites I recently made and toy around with:
+> 
+>   • https://1emonade.netlify.app/
+> 
+>   • https://lemonadev2.netlify.app/
+>
+>   • https://vanilla-covid-dashboard.netlify.app/
+>
+>   • https://personality-quiz-projec.web.app/index.html
+>
+-----
 
 ## Languages & Technologies I've Worked With:
 ##### Languages
