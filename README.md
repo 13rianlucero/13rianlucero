@@ -27,18 +27,23 @@
 
 ### Some Websites I recently made and toy around with:
 >
->   • https://vanilla-covid-dashboard.netlify.app/
+>>
+>> • https://vanilla-covid-dashboard.netlify.app/
+>>
+>>> • https://personality-quiz-projec.web.app/index.html
+>>> 
+>>>> • https://1emonade.netlify.app/
+>>>> 
+>>>>> • https://lemonadev2.netlify.app/
+>>>>>   
+>>>>>> • https://tunefork.netlify.app/
+>>>>>> _
+>>>>> _
+>>>> _
+>>> _
+>> _
+> _
 >
->   • https://personality-quiz-projec.web.app/index.html
-> 
->   • https://1emonade.netlify.app/
-> 
->   • https://lemonadev2.netlify.app/
->   
->   • https://tunefork.netlify.app/
->
->   • <img src="https://img.shields.io/badge/Brian%20Lucero-HOME-blue"  alt="html" style="vertical-align:top; margin:3px">
-> 
 -----
 
 <p align="left">
