@@ -27,7 +27,6 @@
 
 ### Some Websites I recently made and toy around with:
 >
->>
 >> • https://vanilla-covid-dashboard.netlify.app/
 >>
 >>> • https://personality-quiz-projec.web.app/index.html
