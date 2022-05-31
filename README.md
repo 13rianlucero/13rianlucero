@@ -27,21 +27,19 @@
 
 ### Some Websites I recently made and toy around with:
 >
->> • https://vanilla-covid-dashboard.netlify.app/
+> • https://vanilla-covid-dashboard.netlify.app/
 >>
->>> • https://personality-quiz-projec.web.app/index.html
+>> • https://personality-quiz-projec.web.app/index.html
 >>> 
->>>> • https://1emonade.netlify.app/
+>>> • https://1emonade.netlify.app/
 >>>> 
->>>>> • https://lemonadev2.netlify.app/
+>>>> • https://lemonadev2.netlify.app/
 >>>>>   
->>>>>> • https://tunefork.netlify.app/
->>>>> _
+>>>>> • https://tunefork.netlify.app/
 >>>> _
 >>> _
 >> _
 > _
->
 -----
 
 <p align="left">
