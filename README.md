@@ -3,14 +3,12 @@
 <section id="gifs">
     <div align="left" class="inner">
         <span>
-            <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
             <img src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
-            <img src="https://i.pinimg.com/originals/08/07/18/080718c3c5f3a56249a2ee3a825221bd.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
         </span>
     </div>
 </section>
  
-### I am a recent Computer Science gradutate from California State University, Fullerton!
+## I am a recent Computer Science gradutate from California State University, Fullerton!
 
 - I just launched my professional portfolio: [Check It Out Here!](https://13rianlucero.github.io/)
   <p align="left">
@@ -20,35 +18,61 @@
   <p align="left"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="html" style="vertical-align:top; margin-left:50px">
   </p>
 - Looking for an entry level, full-time position in Software Engineering
-- ***2022 Summer Goals:***
 
-| ✓ ? | **Goal**                                                            | **Start Date** | **Current Streak** | 
-| --- | ------------------------------------------------------------------- | ---------------| ------------------ |
-| [✓] | Graduate! [Officially, a CS graduate (B.S. CS), since May 23, 2022] |    **N/A**     |      **N/A**       |  
-| [ ] | Go to a Tech Convention                                             |    **N/A**     |      **N/A**       |  
-| [ ] | Complete 10 job applications / DAY                                  |  May 31, 2022  |      ***1***       |  
-| [ ] | Complete 5 LeetCode problems / DAY                                  |  May 31, 2022  |      ***1***       |  
-| [✓] | At least 1 Push to Github / DAY                                     |  May 31, 2022  |      ***1***       |  
-| [✓] | At least 1 New Project / WEEK                                       |  May 31, 2022  |      ***1***       |  
-| [✓] | At least 1 New LinkedIn Connection / WEEK                           |  May 31, 2022  |      ***1***       |  
+## 2022 Summer Goals:***
 
+| ✓ ? | **Goal**                                                            | **My Progress**    | 
+| --- | ------------------------------------------------------------------- | ---------------- | 
+| [✓] | Graduate! [Officially, a CS graduate (B.S. CS), since May 23, 2022] | [Diploma](https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/main/images/csuf-graduation2022/DiplomaTeaser-FromCeremony-May23-2022.jpeg) |    
+| [ ] | Go to a Tech Convention                                             |  |      
+| [ ] | Complete 10 job applications / DAY                                  |  |      
+| [ ] | Complete 5 LeetCode problems / DAY                                  |  |    
+| [✓] | At least 1 Push to Github / DAY                                     |  |       
+| [✓] | At least 1 New Project / WEEK                                       |  |     
+| [✓] | At least 1 New LinkedIn Connection / WEEK                           |  |
+
+## Let's connect!
+
+> |                        |                                                              |
+> | ---------------------: | :----------------------------------------------------------- |
+> | *`Brian Lucero`*       | [BL \| About](https://13rianlucero.github.io/about.html)     |
+> | *`CSUF Email`*         | [BL \| Email (CSUF)](mailto:13rianlucero@csu.fullerton.edu)  |
+> | *`Personal Email`*     | [BL \| Email (Personal)](mailto:blucero.cu@gmail.com)        |
+> | *`Website`*            | [BL \| Home](https://13rianlucero.github.io/)                |
+> | *`GitHub`*             | [BL \| GitHub ](https://github.com/13rianlucero)             |
+> | *`LinkedIn`*           | [BL \| LinkedIn](https://www.linkedin.com/in/~brian-lucero/) |
+> | *`Twitter`*            | [BL \| Twitter](https://twitter.com/13rianlucero)            |
+> | *`Instagram`*          | [BL \| Instagram](https://www.instagram.com/13lu0/)          |
+> | *`Twitch`*             | [BL \| Twitch](https://www.twitch.tv/mrswaggeroni)           |
+> | *`Soundcloud`*         | [BL \| Soundcloud](https://soundcloud.com/its_lucero)        |
+
+<p align="left">
+<a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height="30" width="40" /></a>
+<a href="https://instagram.com/13lu0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="13lu0" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/mrswaggeroni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height="30" width="40" /></a>
+<a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height="30" width="40" /></a>
+<a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/outlook.svg" alt="13rianlucero@csu.fullerton.edu" height="30" width="40" /></a>
+<a href="[https://twitch.com/13lu0](https://www.twitch.tv/mrswaggeroni)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height="30" width="40" /></a>
+<a href="https://soundcloud.com/its_lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="its_lucero" height="30" width="40" /></a>
+</p>
 
 ### More websites I made recently & toy around with:
->
-> • https://vanilla-covid-dashboard.netlify.app/
->>
->> • https://personality-quiz-projec.web.app/index.html
->>> 
->>> • https://1emonade.netlify.app/
->>>> 
->>>> • https://lemonadev2.netlify.app/
->>>>>   
->>>>> • https://tunefork.netlify.app/
->>>> ___
->>> ___
->> ___
-> ___
-_____
+> ## Fall 2021
+> ### • [Covid-19 Dashboard](https://vanilla-covid-dashboard.netlify.app/)
+> #
+>> ## Fall 2021
+>> ### • [Quiz Central](https://personality-quiz-projec.web.app/index.html)
+>> #
+>>> ## Spring 2022
+>>> ### • [Lemonade](https://1emonade.netlify.app/)
+>>> #
+>>>> ## Spring 2022
+>>>> ### • [Lemonade v2.0](https://lemonadev2.netlify.app/)
+>>>> #
+>>>>> ## Summer 2022
+>>>>> ### • [TuneFork](https://tunefork.netlify.app/)
+>>>>> #
 
 <p align="left">
     <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=13rianlucero&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars&count_private=true" style="border-radius:10px;">
