@@ -1,94 +1,85 @@
-## Hello! My name is Brian Lucero.
-------
-<section id="gifs">
-    <div align="left" class="inner">
-        <span>
-            <img src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
-        </span>
-    </div>
-</section>
- 
-## I am a recent Computer Science gradutate from California State University, Fullerton!
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%% PERSONAL & SM ICONS ~ SECTION %%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-- I just launched my professional portfolio: [Check It Out Here!](https://13rianlucero.github.io/)
-  <p align="left">
-    <img src="https://img.shields.io/badge/Brian%20Lucero-HOME-blue?style=for-the-badge&logo=aboutdotme&logoWidth=20"  alt="html" style="vertical-align:top; margin-left:50px">
-   </p>
-- Currently, learning Solidity, and other Blockchain Technologies (Daps, Web3, Smart Contracts, etc.)
-  <p align="left"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="html" style="vertical-align:top; margin-left:50px">
-  </p>
-- Looking for an entry level, full-time position in Software Engineering
+<!-- BL PERSONAL ICON -->
+<p align="center">
+<a href="https://13rianlucero.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/0994a793c0de804a83e8792e21ed78e8bc882fbc/images/brian/bl-logo.svg" alt="BL | Home"/></a>
+</p>
 
-## 2022 Summer Goals:***
+<!-- PAGE VIEW COUNTER -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=13rianlucero&label=Profile%20views&color=0e75b6&style=3d" alt="13rianlucero" />
+</p>
 
-| ✓ ? | **Goal**                                                            | **My Progress**    | 
-| --- | ------------------------------------------------------------------- | ---------------- | 
-| [✓] | Graduate! [Officially, a CS graduate (B.S. CS), since May 23, 2022] | [Diploma](https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/main/images/csuf-graduation2022/DiplomaTeaser-FromCeremony-May23-2022.jpeg) |    
-| [ ] | Go to a Tech Convention                                             |  |      
-| [ ] | Complete 10 job applications / DAY                                  |  |      
-| [ ] | Complete 5 LeetCode problems / DAY                                  |  |    
-| [✓] | At least 1 Push to Github / DAY                                     |  |       
-| [✓] | At least 1 New Project / WEEK                                       |  |     
-| [✓] | At least 1 New LinkedIn Connection / WEEK                           |  |
+<!-- FOLLOW MY TWITTER PLZ 🥺 -->
+<p align="center">
+<a href="https://twitter.com/13rianlucero" target="blank"><img src="https://img.shields.io/twitter/follow/13rianlucero?logo=twitter&style=for-the-badge" alt="13rianlucero" /></a>
+</p>
 
-## Let's connect!
-
-> |                        |                                                              |
-> | ---------------------: | :----------------------------------------------------------- |
-> | *`Brian Lucero`*       | [BL \| About](https://13rianlucero.github.io/about.html)     |
-> | *`CSUF Email`*         | [BL \| Email (CSUF)](mailto:13rianlucero@csu.fullerton.edu)  |
-> | *`Personal Email`*     | [BL \| Email (Personal)](mailto:blucero.cu@gmail.com)        |
-> | *`Website`*            | [BL \| Home](https://13rianlucero.github.io/)                |
-> | *`GitHub`*             | [BL \| GitHub ](https://github.com/13rianlucero)             |
-> | *`LinkedIn`*           | [BL \| LinkedIn](https://www.linkedin.com/in/~brian-lucero/) |
-> | *`Twitter`*            | [BL \| Twitter](https://twitter.com/13rianlucero)            |
-> | *`Instagram`*          | [BL \| Instagram](https://www.instagram.com/13lu0/)          |
-> | *`Twitch`*             | [BL \| Twitch](https://www.twitch.tv/mrswaggeroni)           |
-> | *`Soundcloud`*         | [BL \| Soundcloud](https://soundcloud.com/its_lucero)        |
-
-<p align="left">
+<!-- SOCIAL MEDIA LINKS -->
+<p align="center">
+<a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height="30" width="40" /></a>
 <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height="30" width="40" /></a>
+<a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/13lu0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="13lu0" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/mrswaggeroni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height="30" width="40" /></a>
-<a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height="30" width="40" /></a>
-<a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/outlook.svg" alt="13rianlucero@csu.fullerton.edu" height="30" width="40" /></a>
-<a href="[https://twitch.com/13lu0](https://www.twitch.tv/mrswaggeroni)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height="30" width="40" /></a>
+<!-- <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/outlook.svg" alt="13rianlucero@csu.fullerton.edu" height="30" width="40" /></a> -->
 <a href="https://soundcloud.com/its_lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="its_lucero" height="30" width="40" /></a>
 </p>
 
-### More websites I made recently & toy around with:
-> ## Fall 2021
-> ### • [Covid-19 Dashboard](https://vanilla-covid-dashboard.netlify.app/)
-> #
->> ## Fall 2021
->> ### • [Quiz Central](https://personality-quiz-projec.web.app/index.html)
->> #
->>> ## Spring 2022
->>> ### • [Lemonade](https://1emonade.netlify.app/)
->>> #
->>>> ## Spring 2022
->>>> ### • [Lemonade v2.0](https://lemonadev2.netlify.app/)
->>>> #
->>>>> ## Summer 2022
->>>>> ### • [TuneFork](https://tunefork.netlify.app/)
->>>>> #
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%% WELCOME MESSAGE ~ SECTION %%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-<p align="left">
-    <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=13rianlucero&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars&count_private=true" style="border-radius:10px;">
-    <img width="355" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13rianlucero&count_private=true&theme=highcontrast&langs_count=7&hide=TypeScript,SCSS,Dockerfile&exclude_repo=CrabAgePrediction,ottergram-hw2,ottergram,projects,coffee-run,13rianlucero.github.io,SWIFT-ONLY,Light,UDP-Pinger" style="border-radius:10px;">
-    <!-- <img width="355" height="225" src="https://github-readme-stats.vercel.app/api?username=13rianlucero&count_private=true" style="border-radius:10px;"> -->
+<!-- WELCOME MESSAGE -->
+<h1 align="center">Welcome to my GitHub Profile</h1>
+
+<!-- ROW OF GIFS -->
+<p align="center">
+    <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <img src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <img src="https://i.pinimg.com/originals/08/07/18/080718c3c5f3a56249a2ee3a825221bd.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <img src="https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <img src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <img src="https://i.pinimg.com/originals/53/ad/92/53ad929213f59c7392bf92605868021f.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <img src="https://i.pinimg.com/originals/94/24/c4/9424c4c89a3a37536d05df7cf7d48e25.gif" height=100px alt="html" style="vertical-align:top;margin:3px">
+    <!-- MY GITHUB STATS (DEFAULT THEME) --> 
+    <img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13rianlucero&count_private=true&theme=highcontrast&langs_count=10&hide=TypeScript,SCSS,Dockerfile&exclude_repo=CrabAgePrediction,ottergram-hw2,ottergram,projects,coffee-run,13rianlucero.github.io,SWIFT-ONLY,Light,UDP-Pinger" style="border-radius:10px;">
+    <img width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=13rianlucero&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars&count_private=true" style="border-radius:10px;">
+    <!-- MY GITHUB STATS (TROPHIES/POINTS THEME) -->
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="300" height="300" src="https://github-profile-trophy.vercel.app/?username=13rianlucero&theme=algolia&column=3&margin-w=15&margin-h=15)" alt="13rianlucero" />
+    </a>
 </p>
 
-----
+<!-- WHO AM I? -->
+<h2 align="left">I'm a Software Engineer from South El Monte, California.</h2>
+   
+<!-- RECENT NEWS (PAST) | WHAT I'M CURRENTLY DOING (NOW) | WHAT I PLAN TO DO LATER ON (FUTURE) -->
+- Recently, graduated with my [B.S. in Computer Science](https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/main/images/csuf-graduation2022/DiplomaTeaser-FromCeremony-May23-2022.jpeg) from California State University, Fullerton (CSUF) on May 23, 2022!
+- Launched my portfolio website: [Check It Out Here!](https://13rianlucero.github.io/)
+- Currently, I am working on a [Machine Learning Research Paper](https://github.com/13rianlucero/CrabAgePrediction)
+    - ML Professor from CSUF, selected my project out of 20 other teams, and will provide guidance for submission to ML Conference
+    - My goal is to be published in a reputable ML Science Journal
+- After my ML Paper is submitted, I plan to continue learning Solidity/Smart Contracts & hunting for SWE jobs
+- Looking for an entry level, full-time position in Software Engineering
 
-## Languages & Technologies:
-##### Languages
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%% LANGUAGES & TECHNOLOGIES ~ SECTION %%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+<!-- LANGUAGES & TECHNOLOGIES ~ ICONS -->
+<h2 align="left">Languages & Technologies I've worked with:</h2>
+<!-- LANGUAGES ~ HEADER -->
+<h4 align="center">Languages</h4>
+<!-- LANGUAGES ~ ICONS -->
 <p align="center">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
     alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"  alt="html" style="vertical-align:top; margin:3px">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
+    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">    
     <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -101,9 +92,10 @@
     <img src="https://img.shields.io/badge/x86-Assembly-00000F?style=for-the-badge&logo=intel&logoColor=whit"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
 </p>
-
-##### Web Technologies I've Worked With:
-<p align="center">   
+<!-- WEB TECHNOLOGIES ~ HEADER -->
+<h4 align="center">Web Technologies</h4>
+<!-- WEB TECHNOLOGIES ~ HEADER -->
+<p align="center">  
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -117,8 +109,9 @@
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"  alt="html" style="vertical-align:top; margin:3px">
 </p>
-
-##### Development Applications I've Used:
+<!-- WEB TECHNOLOGIES ~ HEADER -->
+<h4 align="center">Development Applications</h4>
+<!-- WEB TECHNOLOGIES ~ HEADER -->
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -126,14 +119,15 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
-      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
+    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"  alt="html" style="vertical-align:top; margin:3px">
 </p>
-
-##### Other Applications & Technologies I've Used:
+<!-- OTHER APPS & TECH ~ HEADER -->
+<h4 align="center">Other Applications & Technologies</h4>
+<!-- OTHER APPS & TECH ~ HEADER -->
 <p align="center">
     <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -154,8 +148,9 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
 </p>
-
-##### Learning Resources I've Studied On:
+<!-- LEARNING RESOURCES -->
+<h4 align="center">Learning Resources</h4>
+<!-- LEARNING RESOURCES -->
 <p align="center">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -163,4 +158,22 @@
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)"  alt="html" style="vertical-align:top; margin:3px">
+</p>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%% FOOTER SECTION %%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# 
+
+<!-- FOOTER ~ SOCIAL MEDIA LINKS -->
+<p align="center">
+    <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height="30" width="40" /></a>
+    <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height="30" width="40" /></a>
+    <a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height="30" width="40" /></a>
+    <a href="https://instagram.com/13lu0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="13lu0" height="30" width="40" /></a>
+    <a href="https://www.twitch.tv/mrswaggeroni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height="30" width="40" /></a>
+<!-- <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/outlook.svg" alt="13rianlucero@csu.fullerton.edu" height="30" width="40" /></a> -->
+<a href="https://soundcloud.com/its_lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="its_lucero" height="30" width="40" /></a>
 </p>
