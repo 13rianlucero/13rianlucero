@@ -1,23 +1,29 @@
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%% PERSONAL & SM ICONS ~ SECTION %%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <!-- BL PERSONAL ICON -->
+
 <p align="center">
 <a href="https://13rianlucero.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/0994a793c0de804a83e8792e21ed78e8bc882fbc/images/brian/bl-logo.svg" alt="BL | Home"/></a>
 </p>
 
 <!-- PAGE VIEW COUNTER -->
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=13rianlucero&label=Profile%20views&color=0e75b6&style=3d" alt="13rianlucero" />
 </p>
 
 <!-- FOLLOW MY TWITTER PLZ 🥺 -->
+
 <p align="center">
 <a href="https://twitter.com/13rianlucero" target="blank"><img src="https://img.shields.io/twitter/follow/13rianlucero?logo=twitter&style=for-the-badge" alt="13rianlucero" /></a>
 </p>
 
 <!-- SOCIAL MEDIA LINKS -->
+
 <p align="center">
     <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height="30" width="40" /></a>
     <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height="30" width="40" /></a>
@@ -30,13 +36,17 @@
 </p>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%% WELCOME MESSAGE ~ SECTION %%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <!-- WELCOME MESSAGE -->
+
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <!-- ROW OF GIFS -->
+
 <p align="center">
     <!-- MY GITHUB STATS (DEFAULT THEME) --> 
     <img width="500" height="330" src="https://github-readme-stats.vercel.app/api?username=13rianlucero&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars&count_private=true" style="border-radius:10px;">
@@ -50,22 +60,27 @@
 </p>
 
 <!-- WHO AM I? -->
+
 <h2 align="left">I'm a Software Engineer from South El Monte, California.</h2>
-   
+
 <!-- RECENT NEWS (PAST) | WHAT I'M CURRENTLY DOING (NOW) | WHAT I PLAN TO DO LATER ON (FUTURE) -->
+
 - Recently, graduated with my [B.S. in Computer Science](https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/main/images/csuf-graduation2022/DiplomaTeaser-FromCeremony-May23-2022.jpeg) from California State University, Fullerton (CSUF) on May 23, 2022!
 - Launched my portfolio website: [Check It Out Here!](https://13rianlucero.github.io/)
 - Currently, I am working on a [Machine Learning Research Paper](https://github.com/13rianlucero/CrabAgePrediction)
-    - ML Professor from CSUF, selected my project out of 20 other teams, and will provide guidance for submission to ML Conference
-    - My goal is to be published in a reputable ML Science Journal
+  - ML Professor from CSUF, selected my project out of 20 other teams, and will provide guidance for submission to ML Conference
+  - My goal is to be published in a reputable ML Science Journal
 - After my ML Paper is submitted, I plan to continue learning Solidity/Smart Contracts & hunting for SWE jobs
 - Looking for an entry level, full-time position in Software Engineering
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%% LANGUAGES & TECHNOLOGIES ~ SECTION %%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 <!-- LANGUAGES & TECHNOLOGIES ~ ICONS -->
+
 <h2 align="left">Languages & Technologies I've worked with:</h2>
 <!-- LANGUAGES ~ HEADER -->
 <h4 align="center">Languages</h4>
@@ -74,7 +89,7 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
     alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"  alt="html" style="vertical-align:top; margin:3px">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">    
+    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">  
     <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -156,12 +171,13 @@
 </p>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%% FOOTER SECTION %%%%%%%%%%%%%%% -->
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-# 
-
 <!-- FOOTER ~ SOCIAL MEDIA LINKS -->
+
 <p align="center">
     <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height="30" width="40" /></a>
     <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height="30" width="40" /></a>
