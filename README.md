@@ -114,7 +114,6 @@
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
-    <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"  alt="html" style="vertical-align:top; margin:3px">
