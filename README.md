@@ -38,7 +38,8 @@
 - Looking for an entry level, full-time position in Software Engineering
 
 <h2 align="left">Technical Skills</h2>
-    <h4 align="left"><code>Languages</code></h4>
+        
+<h3 align="left"><code>Languages</code></h3>
     <p align="left">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
         alt="html" style="vertical-align:top; margin:3px">
@@ -52,7 +53,8 @@
         <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
         <img src="https://img.shields.io/badge/x86-Assembly-00000F?style=for-the-badge&logo=intel&logoColor=whit"  alt="html" style="vertical-align:top; margin:3px">
     </p>
-<h4 align="right"><code>Tools & Software Frameworks</code></h4>
+        
+<h3 align="right"><code>Tools & Software Frameworks</code></h3>
 <p align="right">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -71,7 +73,8 @@
     <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"  alt="html" style="vertical-align:top; margin:3px" />
 </p>
-<h4 align="left"><code>Operating Systems</code></h4>
+        
+<h3 align="left"><code>Operating Systems</code></h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=" html"style="vertical-align:top; margin:3px" />
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt=" html"style="vertical-align:top; margin:3px" />
@@ -81,7 +84,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
 </p>
 
-<h4 align="right"><code>Other Technologies & Libraries</code></h4>
+<h3 align="right"><code>Other Technologies & Libraries</code></h3>
 <!-- OTHER APPS & TECH ~ HEADER -->
 <p align="right">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"  alt="html" style="vertical-align:top; margin:3px">
