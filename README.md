@@ -7,13 +7,9 @@
 <p align="left">
     <!-- SOCIAL MEDIA LINKS -->
     <!-- SOCIAL MEDIA LINKS -->
-    <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height=5% width=5% /></a>
     <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height=5% width=5% /></a>
     <a href="mailto:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height=5% width=5% /></a>
     <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="13rianlucero@csu.fullerton.edu" height=5%" width=5% /></a>
-    <a href="https://instagram.com/13lu0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="13lu0" height=5% width=5% /></a>
-    <a href="https://www.twitch.tv/mrswaggeroni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height=5% width=5% /></a>
-    <a href="https://soundcloud.com/its_lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="its_lucero" height=5% width=5% /></a>
         
 <h1 align="left">Welcome to my GitHub Profile.</h1>
 <p align="left">
@@ -97,12 +93,8 @@
 </h1>
 <p align="left">
     <!-- SOCIAL MEDIA LINKS -->
-    <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height=5% width=5% /></a>
     <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height=5% width=5% /></a>
     <a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height=5% width=5% /></a>
     <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="13rianlucero@csu.fullerton.edu" height=5%" width=5% /></a>
-    <a href="https://instagram.com/13lu0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="13lu0" height=5% width=5% /></a>
-    <a href="https://www.twitch.tv/mrswaggeroni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="mrswaggeroni" height=5% width=5% /></a>
-    <a href="https://soundcloud.com/its_lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="its_lucero" height=5% width=5% /></a>
     <a href="https://13rianlucero.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/13rianlucero/lemonade_v2.0/9bff8f47346de6a174e957c3301f5c04c5aa2bcf/images/bl-logo%20copy%202.svg" alt="BL | Home"/></a>
 </p>    
