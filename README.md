@@ -2,16 +2,12 @@
     <!-- PAGE VIEW COUNTER -->
     <img src="https://komarev.com/ghpvc/?username=13rianlucero&label=Profile%20views&color=0e75b6&style=3d" alt="13rianlucero" />
 </p>
-<p align="left">
-    <!-- LETS BE FRIENDS ON TWITTER PLZ -->
-    <a href="https://twitter.com/13rianlucero" target="blank"><img src="https://img.shields.io/twitter/follow/13rianlucero?logo=twitter&style=for-the-badge" alt="13rianlucero" /></a>
-</p>
+
 
 <p align="left">
     <!-- SOCIAL MEDIA LINKS -->
     <!-- SOCIAL MEDIA LINKS -->
     <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height=5% width=5% /></a>
-    <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height=5% width=5% /></a>
     <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height=5% width=5% /></a>
     <a href="mailto:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height=5% width=5% /></a>
     <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="13rianlucero@csu.fullerton.edu" height=5%" width=5% /></a>
@@ -102,7 +98,6 @@
 <p align="left">
     <!-- SOCIAL MEDIA LINKS -->
     <a href="https://github.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="13rianlucero" height=5% width=5% /></a>
-    <a href="https://twitter.com/13rianlucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="13rianlucero" height=5% width=5% /></a>
     <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height=5% width=5% /></a>
     <a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height=5% width=5% /></a>
     <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="13rianlucero@csu.fullerton.edu" height=5%" width=5% /></a>
