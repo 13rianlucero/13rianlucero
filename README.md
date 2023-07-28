@@ -14,8 +14,8 @@
 <h1 align="left">Welcome to my GitHub Profile.</h1>
 <p align="left">
     <!-- MY GITHUB STATS (DEFAULT THEME) --> 
-    <img width=60% height=10% src="https://github-readme-stats.vercel.app/api?username=13rianlucero&show_icons=true&theme=gruvbox&include_all_commits=true&hide=stars&count_private=true" style="border-radius:1px;">
-    <img width=30% height=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=13rianlucero&count_private=true&theme=gruvbox&langs_count=10&hide=TypeScript,SCSS,Dockerfile&exclude_repo=CrabAgePrediction,ottergram-hw2,ottergram,projects,coffee-run,13rianlucero.github.io,SWIFT-ONLY,Light,UDP-Pinger" style="border-radius:10px;">
+<!--     <img width=60% height=10% src="https://github-readme-stats.vercel.app/api?username=13rianlucero&show_icons=true&theme=gruvbox&include_all_commits=true&hide=stars&count_private=true" style="border-radius:1px;"> -->
+<!--     <img width=30% height=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=13rianlucero&count_private=true&theme=gruvbox&langs_count=10&hide=TypeScript,SCSS,Dockerfile&exclude_repo=CrabAgePrediction,ottergram-hw2,ottergram,projects,coffee-run,13rianlucero.github.io,SWIFT-ONLY,Light,UDP-Pinger" style="border-radius:10px;"> -->
     <!-- MY GITHUB STATS (TROPHIES/POINTS THEME) -->
         <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img width="300" height="300" src="https://github-profile-trophy.vercel.app/?username=13rianlucero&theme=gruvbox&column=&margin-w=15&margin-h=15" alt="13rianlucero" /> -->
@@ -24,9 +24,9 @@
         
 <h2 align="left">About me</h2>
 
-- Recently, graduated with my [B.S. in Computer Science](https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/main/images/csuf-graduation2022/DiplomaTeaser-FromCeremony-May23-2022.jpeg) from California State University, Fullerton (CSUF) on May 23, 2022!
+- Graduated with my [B.S. in Computer Science](https://raw.githubusercontent.com/13rianlucero/13rianlucero.github.io/main/images/csuf-graduation2022/DiplomaTeaser-FromCeremony-May23-2022.jpeg) from California State University, Fullerton (CSUF) on May 23, 2022!
 - Launched my portfolio website: [Check It Out Here!](https://13rianlucero.github.io/)
-- Currently, I am working on a [Machine Learning Research Paper](https://github.com/13rianlucero/CrabAgePrediction)
+- Currently, I am working on [EventGPT](https://github.com/kevin9gao/eventGPT)
 - Looking for an entry level, full-time position in Software Engineering
 
 <h2 align="left">Technical Skills</h2>
@@ -46,8 +46,8 @@
         <img src="https://img.shields.io/badge/x86-Assembly-00000F?style=for-the-badge&logo=intel&logoColor=whit"  alt="html" style="vertical-align:top; margin:3px">
     </p>
         
-<h3 align="right"><code>Tools & Software Frameworks</code></h3>
-<p align="right">
+<h3 align="left"><code>Tools & Software Frameworks</code></h3>
+<p align="left">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -76,9 +76,9 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
 </p>
 
-<h3 align="right"><code>Other Technologies & Libraries</code></h3>
+<h3 align="left"><code>Other Technologies & Libraries</code></h3>
 <!-- OTHER APPS & TECH ~ HEADER -->
-<p align="right">
+<p align="left">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"  alt="html" style="vertical-align:top; margin:3px">
@@ -93,8 +93,8 @@
 </h1>
 <p align="left">
     <!-- SOCIAL MEDIA LINKS -->
-    <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height=5% width=5% /></a>
+<!--     <a href="https://linkedin.com/in/~brian-lucero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="~brian-lucero" height=5% width=5% /></a>
     <a href="mailtp:blucero.cu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="blucero.cu@gmail.com" height=5% width=5% /></a>
-    <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="13rianlucero@csu.fullerton.edu" height=5%" width=5% /></a>
+    <a href="mailto:13rianlucero@csu.fullerton.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="13rianlucero@csu.fullerton.edu" height=5%" width=5% /></a> -->
     <a href="https://13rianlucero.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/13rianlucero/lemonade_v2.0/9bff8f47346de6a174e957c3301f5c04c5aa2bcf/images/bl-logo%20copy%202.svg" alt="BL | Home"/></a>
 </p>    
